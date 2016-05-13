@@ -1,0 +1,45 @@
+body{
+	font-family: verdana;
+	background-color:  #FFD700;
+}
+
+p {
+    font-size: 10px;
+}
+
+#burgerH1 {
+	text-align: center;
+}
+
+.container{
+	width:80%;
+	margin: 0 auto;
+}
+.notDevoured{
+	float: left;
+	width:50%;
+}
+
+.devoured{
+	float: right;
+	width:50%;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.button2 {
+	background-color: #008CBA;
+	color: white;
+}  
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+#subform{
+	padding-bottom: 20px;
+	padding-top: 10px;
+	text-align: center;
+}
